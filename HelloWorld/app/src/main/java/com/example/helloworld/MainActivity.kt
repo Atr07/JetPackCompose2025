@@ -48,7 +48,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
         Text(
             text = "Hello $name!",
             modifier = modifier,
-            color = Color.Black,
+            color = Color.Blue,
             fontSize = 30.sp
         )
     }
